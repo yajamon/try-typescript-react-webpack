@@ -1,0 +1,11 @@
+{
+  "name": "try-typescript-react-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://yajamon@github.com/yajamon/try-typescript-react-webpack.git",
+  "author": "yajamon <yajamon.tatsuki@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  }
+}
